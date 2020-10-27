@@ -29,7 +29,7 @@ reasonable defaults.
 * make new example and modify existing one to work with new library
 
 ## Example case
-![demo](https://github.com/prithvibellamkonda/aec-genetic-lib/blob/main/out.gif)  
+![demo](https://github.com/prithvibellamkonda/aec-gen-lib/blob/main/out.gif)  
 Consider a simple problem: guessing the sentence. Now lets see one way of solving it with our library.  
 First, how are we going to represent our problem? With string of course!  
 Greay, we know what all genotye will be, now lets implement 4 core functions:
